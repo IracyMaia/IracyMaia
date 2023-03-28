@@ -19,7 +19,7 @@
 - Spanish <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/es.png" heigth="25px" width="30px" align="center">
 - English <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/gb.png" heigth="25px" width="30px" align="center">
 - Portuguese <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/br.png" heigth="25px" width="30px" align="center">
-- German <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/gr.png" heigth="25px" width="30px" align="center">
+- German <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/ge.png" heigth="25px" width="30px" align="center">
 
 
 
