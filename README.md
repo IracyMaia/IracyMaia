@@ -14,13 +14,5 @@
 
 ---
 
-<h3> I’m a poliglot speaking 5 languajes. </h3>
-
-- Spanish <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/es.png" heigth="25px" width="30px" align="center">
-- English <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/gb.png" heigth="25px" width="30px" align="center">
-- Portuguese <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/br.png" heigth="25px" width="30px" align="center">
-- German <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/de.png" heigth="25px" width="30px" align="center">
-
-
 
 <img src ="https://github-readme-stats.vercel.app/api?username=iracymaia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
