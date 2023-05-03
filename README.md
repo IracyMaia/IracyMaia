@@ -1,18 +1,15 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/IracyMaia/2e468fb60250df93ae953143bc879d5c/raw/ad67fc05d4c419015e9d968fd18e36dc284bd789/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🐝 Specialist in Biotechnology, with a focus on taxonomy
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 👨‍💻🔬🔎 I am currently a master's student and am modeling the niche of stingless bees in the Amazon
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 💬 Ask me about **Taxonomy, Entomology, Biodiversity**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- ⚡ Fun fact ** I love to eat cakes 😜**
 
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
 
 <!--
 
