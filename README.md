@@ -22,10 +22,7 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=IracyMaia&theme=vision-friendly-dark&hide_border=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IracyMaia&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 
-</div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 ---
