@@ -1,81 +1,57 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/IracyMaia/2e468fb60250df93ae953143bc879d5c/raw/ad67fc05d4c419015e9d968fd18e36dc284bd789/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<img align="right" height="390em" src="https://raw.githubusercontent.com/gist/IracyMaia/c109bf45cc0ea761c4b0a91049c25bdd/raw/0441662321a41ad737d677c2bf0cad1ed124bb21/githubcardprofile.svg"/>
+<h1 align="left">Hi <img src="https://static.wixstatic.com/media/e869bd_c56a3a18c48d45f69a86ec6e39d003ce~mv2.gif" height="30px">, I'm Iracy Maiany</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iracymaia&color=yellow" alt="Profile views" /> </p>
 
-- 🐝 Specialist in Biotechnology, with a focus on taxonomy
+- 🔎 Specialist in Biotechnology, with a focus on taxonomy
 
-- 👨‍💻🔬🔎 I am currently a master's student and am modeling the niche of stingless bees in the Amazon
+- 👨‍💻 I am currently a master's student and am modeling the niche of stingless bees in the Amazon
 
 - 💬 Ask me about **Taxonomy, Entomology, Biodiversity**
 
+- 🌱 I’m currently learning Phyton
+
 - ⚡ Fun fact ** I love to eat cakes 😜**
 
-
-<!--
-
 <br><br>
+</div>
 
-## 🛠 &nbsp;Tech Stack
+# ⚙️ &nbsp;GitHub Analytics
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IracyMaia&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=IracyMaia&theme=vision-friendly-dark&hide_border=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IracyMaia&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 
-<br><br>
+</div>
 
-## ⚙️ &nbsp;GitHub Analytics
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
--->
+---
 
-<br><br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Contact
-
+</a>
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<a href="https://www.biodiversity4all.org/people/iracymaiany" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Biodiversity4all-05122A?style=flat&logo=biodiversity4all" alt="biodiversity4all"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://www.researchgate.net/profile/Iracy-Maiany" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Researchgate-05122A?style=flat&logo=researchgate" alt="researchgate"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/iracymaiany" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://www.youtube.com/channel/UC4kDa-gwanybQ8NoJJrUVeA" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+<a align="left" style="background:yellow">
+<a href="mailto:iracymaiany@hotmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="gmail"/>
 </p>
 
 <!--
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
-
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
