@@ -8,10 +8,6 @@
 
 - 💬 Ask me about **Taxonomy, Entomology, Biodiversity**
 
-- 🌱 I’m currently learning Phyton
-
-- ⚡ Fun fact ** I love to eat cakes 😜**
-
 <br><br>
 </div>
 
