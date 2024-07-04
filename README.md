@@ -1,5 +1,5 @@
 <img align="right" height="390em" src="https://raw.githubusercontent.com/gist/IracyMaia/c109bf45cc0ea761c4b0a91049c25bdd/raw/0441662321a41ad737d677c2bf0cad1ed124bb21/githubcardprofile.svg"/>
-<h1 align="left">Hi <img src="https://static.wixstatic.com/media/e869bd_c56a3a18c48d45f69a86ec6e39d003ce~mv2.gif" height="30px">, I'm Iracy Maiany</h1>
+<h1 align="left">Hi, I'm Iracy Maiany</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iracymaia&color=yellow" alt="Profile views" /> </p>
 
 - 🔎 Specialist in Biotechnology, with a focus on taxonomy
