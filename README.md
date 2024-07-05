@@ -4,7 +4,9 @@
 
 - 🔎 Specialist in Biotechnology, with a focus on taxonomy
 
-- 👨‍💻 I am currently a master's student & I am modeling the niche of stingless bees in the Amazon
+- 👨‍💻 I have a master's degree in neotropical biodiversity
+
+- I used niche modelling to analyse the diversity of stingless bees in the Amazon rainforest
 
 - 💬 Ask me about **Taxonomy, Entomology, Biodiversity**
 
