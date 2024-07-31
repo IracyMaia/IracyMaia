@@ -8,8 +8,6 @@
 
 - I used niche modelling to analyse the diversity of stingless bees in the Amazon rainforest
 
-- 💬 Ask me about **Taxonomy, Entomology, Biodiversity**
-
 <br><br>
 </div>
 
