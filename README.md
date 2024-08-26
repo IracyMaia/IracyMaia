@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Iracy Maiany</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iracymaia&color=yellow" alt="Profile views" /> </p>
 
-- 🔎 Specialist in Biotechnology, with a focus on taxonomy
+- 🔎 Specialist in Biotechnology
 
 - 👨‍💻 I have a master's degree in neotropical biodiversity
 
