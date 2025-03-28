@@ -6,7 +6,7 @@
 
 - 🔬 Specialist in Biotechnology
 
-- 🎓 Bachelor's and Master's degrees in Biological Sciences – with a focus on Neotropical biodiversity
+- 🎓 Master's degrees in Biological Sciences – with a focus on biodiversity
 
 - 🌱 Applied ecological niche modelling to study the diversity of stingless bees in the Amazon rainforest
 
