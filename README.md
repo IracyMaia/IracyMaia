@@ -5,7 +5,7 @@
 - 💭 *“From here, I observe the world with curiosity, courage, and a scientific mind.”*
 
 - 🐝 Passionate about data, bees, and the intricate beauty of nature
-  
+
 - 🔬 Specialist in Biotechnology
 
 - 🎓 Master's degree in Biological Sciences – with a focus on biodiversity and ecological patterns
@@ -14,6 +14,38 @@
 
 <br><br>
 </div>
+
+<h2> 🧠 Known Languages </h2>
+
+![Python](https://img.shields.io/badge/Python-CA8A04?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-CA8A04?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-CA8A04?style=for-the-badge&logo=html5&logoColor=white)
+
+<h2> 📊 Libraries & Tools for Data Science </h2>
+
+![Pandas](https://img.shields.io/badge/Pandas-CA8A04?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-CA8A04?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-CA8A04?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-CA8A04?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-CA8A04?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-CA8A04?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-CA8A04?style=for-the-badge&logo=jupyter&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-CA8A04?style=for-the-badge&logo=r&logoColor=white)
+
+<h2> 🌿 Libraries for Ecology & Niche Modelling </h2>
+
+![flexsdm](https://img.shields.io/badge/flexsdm-CA8A04?style=for-the-badge&logo=r&logoColor=white)
+![dismo](https://img.shields.io/badge/dismo-CA8A04?style=for-the-badge&logo=r&logoColor=white)
+![ENMeval](https://img.shields.io/badge/ENMeval-CA8A04?style=for-the-badge&logo=r&logoColor=white)
+![biomod2](https://img.shields.io/badge/biomod2-CA8A04?style=for-the-badge&logo=r&logoColor=white)
+![raster](https://img.shields.io/badge/raster-CA8A04?style=for-the-badge&logo=r&logoColor=white)
+![sp](https://img.shields.io/badge/sp-CA8A04?style=for-the-badge&logo=r&logoColor=white)
+![BiocManager](https://img.shields.io/badge/BiocManager-CA8A04?style=for-the-badge&logo=r&logoColor=white)
+
+<h2> ☁️ Cloud & Platforms </h2>
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-CA8A04?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-CA8A04?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 # ⚙️ &nbsp;GitHub Analytics
 
